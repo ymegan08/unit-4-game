@@ -1,0 +1,86 @@
+html{
+    position: absolute;
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat;
+}
+#header{
+    color: white;
+    float: left;
+    clear: both;
+    box-sizing: border-box;
+    text-align: center;
+    background: #EDC555;
+    margin: 10px;
+}
+#instructions{
+    color:	#F08080;
+    width: 50%;
+    font-weight: bold;
+    float: left;
+    clear: both;
+    box-sizing: border-box;
+    text-align: left;
+    background: #FFFACD;
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    padding-left: 10px;
+}
+#random-number{
+    float: left;
+    clear: both;
+    background: white;
+    box-sizing: border-box;
+    color:	#F08080;
+    padding-bottom: 70px;
+    width: 25%;
+    text-align: left;
+    margin: 10px;
+    font-size: 30px;
+    padding-left: 5px;
+}
+#crystals{
+    width: 40%;
+    float: left;
+    clear: both;
+    padding: 10px;
+}
+.crystal-image{
+    width: 70px;
+    height: 70px;
+}
+#your-score{
+    float: left;
+    clear: both;
+    background: #ccf2ff;
+    box-sizing: border-box;
+    color: #006080;
+    width: 25%;
+    text-align: left;
+    margin: 10px;
+    font-size: 20px;
+}
+#total-score-text{
+    float: left;
+    clear: both;
+    background:	#ccf2ff;
+    box-sizing: border-box;
+    color: #006080;
+    padding-bottom: 70px;
+    width: 25%;
+    text-align: left;
+    margin: 10px;
+    font-size: 30px;
+    padding-left: 5px;
+}
+#wins-losses{
+    float: left;
+    background: white;
+    box-sizing: border-box;
+    color:	#F08080;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
